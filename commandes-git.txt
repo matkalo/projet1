@@ -1,0 +1,7 @@
+Voici quelques commandes utiles sur git
+
+1 touch = creer un fichier
+2 mkdir = creer un dossier
+3 cat = afficher le contenu d un fichier
+4 ls = voir la lsite des fichiers et repertoire dans le dossier courant
+5 pwd = permet de connaitre le re:xpertoire courant
