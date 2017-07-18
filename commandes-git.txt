@@ -5,3 +5,4 @@ Voici quelques commandes utiles sur git
 3 cat = afficher le contenu d un fichier
 4 ls = voir la lsite des fichiers et repertoire dans le dossier courant
 5 pwd = permet de connaitre le re:xpertoire courant
+6 git log = affiche la liste de tous les commits 
